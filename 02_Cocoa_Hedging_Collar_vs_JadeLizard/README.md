@@ -1,0 +1,7 @@
+# Membandingkan Strategi Protective Collar dan Reverse Jade Lizard Menggunakan Opsi Vanilla untuk Lindung Nilai Harga Kakao
+
+**Penulis:** Muhammad Harits Ramadhan (G5402201017)  
+**Program Studi:** S1 Aktuaria, Institut Pertanian Bogor (2024)
+
+## Abstrak
+Harga komoditas kakao di Indonesia cenderung memiliki volatilitas tinggi dengan fluktuasi tajam, sehingga berisiko merugikan produsen ketika harga pasar turun drastis. Penelitian ini membandingkan kinerja dua strategi lindung nilai (*hedging*) berbasis opsi vanilla, yaitu *Protective Collar* dan *Reverse Jade Lizard*, menggunakan data harga spot harian kakao BAPPEBTI periode 2019–2022 yang dikonversi menjadi data mingguan. Hasil uji Kolmogorov-Smirnov menunjukkan *logarithmic return* menyebar normal ($p\text{-value} = 0,6684$) dengan volatilitas tahunan sebesar 29,72%. Penentuan harga opsi dihitung menggunakan model Black-Scholes ($S_0 = \text{Rp}32.936,42$, $r = 5,75\%$, $T = 2\text{ bulan}$, $K_1 = \text{Rp}30.000$, $K_2 = \text{Rp}33.000$, $K_3 = \text{Rp}36.000$). Hasil penelitian membuktikan bahwa strategi *Protective Collar* unggul dalam meminimalisir kerugian saat harga jatuh di bawah $\text{Rp}31.924,64$ (menjaga harga jual minimum di $\text{Rp}30.087,56$), sedangkan *Reverse Jade Lizard* menghasilkan profit dan harga jual lebih tinggi ketika harga berada di atas $\text{Rp}31.924,64$ (hingga batas $\text{Rp}37.162,92$).
